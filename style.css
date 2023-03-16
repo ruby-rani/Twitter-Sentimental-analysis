@@ -1,0 +1,40 @@
+.body{
+    background:linear-gradient(to left());
+}
+
+.main{
+    margin: auto;
+    width: 50%;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    border:2px solid black;
+}
+.fa-twitter{
+    width: 10px;
+    height: 20px;
+}
+.first{
+    margin: 10%;
+
+}
+.form{
+    margin: 20px;
+    padding: 10px;
+    background-color: lightblue;
+    border-radius: 15px;
+}
+.key{
+    border-radius: 5px;
+    margin: 10px;
+    padding: 5px;
+}
+.tweets{
+    border-radius: 5px;
+    margin: 10px;
+    padding: 5px;
+}
+.submit{
+    margin: 10px;
+    padding: 5px;
+}
